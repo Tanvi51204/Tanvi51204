@@ -15,6 +15,6 @@
 </a>
 
 ## My Developer Toolkit
-[![My Skills](https://skillicons.dev/icons?i=python,js,expressjs,nodejs,bootstrap,tailwind,mysql,postgres,mongodb,linux,git,github,sklearn,tensorflow,vscode)](#)
+[![My Skills](https://skillicons.dev/icons?i=python,js,expressjs,nodejs,bootstrap,tailwind,mysql,postgres,mongodb,linux,git,github,sklearn,tensorflow)](#)
 
 
